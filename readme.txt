@@ -6,4 +6,4 @@ TMD fuck you guy
 
 再加一行代码~!@
 
-git tracks changes.
+git tracks changes of files.
